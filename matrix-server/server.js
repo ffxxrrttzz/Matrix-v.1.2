@@ -64,6 +64,14 @@ pages.forEach(page => {
 
 // Обработчик контактной формы
 app.post('/contact', (req, res) => {
+        // Проверяем, что body парсится правильно
+    if (!req.body || Object.keys(req.body).length === 0) {
+        console.log('❌ Body is empty or not parsed');
+        return res.status(400).json({
+            success: false,
+            message: 'Invalid request body'
+        });
+    }
     const { username, email, subject, message, agree } = req.body;
     
     console.log('📧 New contact form submission:');
