@@ -432,7 +432,7 @@ img {
 }
 
 .sidebar-social-network .social____media .sidebar__media__icon:hover {
-  color: #FF6854;
+  color: #5067EF;
 }
 .hidden-sidebar .close-button {
   position: absolute;
@@ -521,7 +521,7 @@ img {
   content: "x";
   width: 50px;
   height: 50px;
-  background-color: #FF6854;
+  background-color: #5067EF;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -558,11 +558,11 @@ img {
   background: #343E61;
 }
 .funfact__left__content .more__button a:hover {
-  background-color: #FF6854;
+  background-color: #5067EF;
   transition: all 500ms ease;
 }
 .funfact__left__content .more__button a:hover:before {
-  background-color: #FF6854;
+  background-color: #5067EF;
 }
 
  .single-header-right.sidenav-btn-box a.side-nav-open span.bar+span.bar {
@@ -584,7 +584,7 @@ img {
 .side-nav {
     background: no-repeat;
     position: absolute;
-    top: 0;
+    top: -1px;
     right: 0;
     width: 233px;
     height: 178px;
@@ -606,7 +606,7 @@ img {
 	font-weight: 600;
 	text-transform: uppercase;
 	transition: .5s;
-	background-color: #FF6854;
+	background-color: #5067EF;
 }
 .btn-1:after {
   position: absolute;
@@ -689,7 +689,7 @@ a.btn-1.btn-large {
 }
 
 .theme-btn{
-  background: #FF6854;
+  background: #5067EF;
   position: relative;
   display: inline-block;
   overflow: hidden;
@@ -797,7 +797,7 @@ a.btn-1.btn-large {
   content: "";
   width: 50px;
   height: 1px;
-  background-color: #FF6854;
+  background-color: #5067EF;
   position: absolute;
   margin-left: 18px;
   top: 15px;
@@ -948,7 +948,7 @@ a.btn-1.btn-large {
   top: 0;
   height: 100%;
   width: 100%;
-  background-color: #f4244f;
+  background-color: #9e9e9e;
   opacity: .3;
 }
 
@@ -957,7 +957,7 @@ a.btn-1.btn-large {
   top: 0;
   right: 0;
   height: 100%;
-  background-color: currentColor;
+  background-color: #5067EF;
 }
 
 .scroll-to-top .scroll-bar-text{
@@ -1334,7 +1334,7 @@ nav.main-menu.navbar-expand-md.navbar-light {
   text-align: center;
   border-radius: 50px;
   top: 781px;
-  background: #FF6854;
+  background: #5067EF;
 }
 .search-popup .close-search span {
   font-size: 24px;
@@ -1366,7 +1366,7 @@ nav.main-menu.navbar-expand-md.navbar-light {
   font-family: 'Poppins', sans-serif;
   font-weight: 400;
   padding-right: 50px;
-  border: 1px solid #FF6854;
+  border: 1px solid #5067EF;
   border-radius: 20px;
   font-family: 'Merriweather';
   font-style: normal;
@@ -1461,7 +1461,7 @@ nav.main-menu.navbar-expand-md.navbar-light {
 	width: 28px;
 }
 .main-menu .navigation > li > a:after{
-	background: #FF6854;
+	background: #5067EF;
 	position: absolute;
 	height: 4px;
 	width: 0px;
@@ -2078,12 +2078,12 @@ div#mCSB_1_container{
   top: 350px;
 }
 .banner__media .media__banner:hover {
-  color: #FF6854;
-  border: 1px solid #FF6854;
+  color: #5067EF;
+  border: 1px solid #5067EF;
   transition:all 500ms ease;
 }
 .banner__media .media__banner:hover a{
-  color: #FF6854;
+  color: #5067EF;
   transform: rotate(360deg);
 }
 .banner__button .video-btn a:before ,.banner__button .video-btn a:after {
@@ -2182,7 +2182,7 @@ div#mCSB_1_container{
   color: #FFFFFF;
   line-height: 30px;
   padding: 12px 50px 12px 42px;
-  background: #FF6854;
+  background: #5067EF;
 }
 .banner__button {
   display: flex;
@@ -2501,7 +2501,7 @@ section.faq-section.service {
 
 .service_icon_one:before {
   content: "";
-  background-color: #FF6854;
+  background-color: #5067EF;
   position: absolute;
   width: 1px;
   height: 212px;
@@ -2526,7 +2526,7 @@ section.faq-section.service {
 .speed__option ul li {
   padding: 20px 0 0;
   line-height: 29px;
-  color: #FF6854;
+  color: #5067EF;
   font-weight: 400;
   display: flex;
   align-items: center;
@@ -2607,7 +2607,7 @@ section.faq-section.service {
 
 }
 .service__slider_icon .service_icon_one {
-  background-color: #FF6854;
+  background-color: #5067EF;
   width: 62px;
   height: 62px;
   display: flex;
@@ -2659,7 +2659,7 @@ section.faq-section.service {
 }
 .title h2 span {
   font-weight: 500;
-  color: #FF6854;
+  color: #5067EF;
   z-index: 9;
 }
 .service_slider .owl-dots {
@@ -3164,7 +3164,7 @@ section.faq-section.service {
   transition: all 500ms ease;
 }
  .data__image:before{
-  background: #FF6854;
+  background: #5067EF;
   box-shadow: 0px 8px 20px rgb(72 72 72 / 10%);
   transition: all 500ms ease;
   border-radius: 50%;
@@ -3233,7 +3233,7 @@ section.faq-section.service {
   font-weight: 400;
   font-size: 14px;
   line-height: 20px;
-  color: #FF6854;
+  color: #5067EF;
   height: 36px;
   border-radius: 50%;
 }
@@ -3361,7 +3361,7 @@ section.faq-section.service {
   color: #343E61;
 }
 .feed__back_content li:nth-child(2) span .path1:before{
-  color: #FF6854;
+  color: #5067EF;
 }
 .feed__back_content li:nth-child(3) span .path1:before{
   color: #3AC4E5;
@@ -3492,7 +3492,7 @@ section.faq-section.service {
   position: absolute;
   width: 10px;
   height: 10px;
-  background: #FF6854;
+  background: #5067EF;
   border-radius: 50%;
   z-index: 1;
 }
@@ -3512,7 +3512,7 @@ section.faq-section.service {
   width: 10px;
   height: 10px;
   border-radius: 50%;
-  background: #FF6854;
+  background: #5067EF;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -3602,7 +3602,7 @@ span.tab___all {
   border-right: none;
 }
 .business-section li.active-btn {
-  border-bottom: 1px solid #FF6854;
+  border-bottom: 1px solid #5067EF;
 }
 .tab___all h5 {
   font-size: 22px;
@@ -3632,7 +3632,7 @@ span.tab___all img {
   display: block;
   width: 46px;
   height: 1px;
-  background: #FF6854;
+  background: #5067EF;
   top: 60px;
 }
 .business-section .inner-box h4 {
@@ -3794,8 +3794,8 @@ span.tab___all img {
   border-color: #343E61 !important;
 }
 .pricing-style-two .tab-btns li {
-  border-color: #FF6854 !important;
-  background-color: #FF6854;
+  border-color: #5067EF !important;
+  background-color: #5067EF;
   color: #fff;
   font-weight: 500;
   font-size: 20px;
@@ -3946,7 +3946,7 @@ span.tab___all img {
 
 .news-section .post-info li span {
   font-size: 20px;
-  color: #ff6854;
+  color: #5067EF;
   margin-right: 12px;
 }
 .news-section .post-info li{
@@ -4110,7 +4110,7 @@ span.tab___all img {
   align-items: center;
 }
 .main-footer .contact-widget .info-list li:nth-child(1) i{
-  background-color: #FF6854;
+  background-color: #5067EF;
 }
 .main-footer .contact-widget .info-list li:nth-child(2) i{
   background-color: #3AC4E5;
@@ -4128,7 +4128,7 @@ span.tab___all img {
 
 }
 .main-footer .links-widget .links-list li:hover a {
-  color: #FF6854;
+  color: #5067EF;
   margin-left: 17px;
 }
 .main-footer .footer-widget .footer-logo{
@@ -4142,7 +4142,7 @@ span.tab___all img {
 }
 
 .copyright p a {
-  color: #FF6854;
+  color: #5067EF;
 }
 .main-footer .footer-top{
   padding: 131px 0px 36px 0px;
@@ -4165,7 +4165,7 @@ span.tab___all img {
   display: block;
   width: 100%;
   height: 31.4px;
-  background-image: url(../images/icons/footer_icon_2.png);
+  background-image: url(../images/icons/footer-icon-2-blue.svg);
   background-repeat: no-repeat;
   top: 40px;
 }
@@ -4346,7 +4346,7 @@ span.tab___all img {
   color: #86888D; 
 }
 .best__option .icon-check_icon:before {
-  color: #FF6854;
+  color: #5067EF;
   margin-right: 22px;
 }
 .what_it_does_section .more__button {
@@ -4360,7 +4360,7 @@ span.tab___all img {
 }
 .what_it_does_section .counter-block-one .inner-box .icon-box {
   margin: 0 0 0 auto;
-  background: #FF6854;
+  background: #5067EF;
   border: none;
   box-shadow: none;
   right: 59px;
@@ -4588,7 +4588,7 @@ z-index: -1;
 }
 .funfact-section.two .rating__section li i {
   font-size: 20px;
-  color: #FF6854;
+  color: #5067EF;
 }
 .review__number {
   margin-top: 12px;
@@ -4666,7 +4666,7 @@ z-index: -1;
   font-weight: 700;
   font-size: 20px;
   line-height: 29px;
-  color: #FF6854;
+  color: #5067EF;
 }
 .work__text h5 {
   font-weight: 700;
@@ -4708,7 +4708,7 @@ z-index: -1;
   z-index: -1;
 } */
 .work___process .total__user span {
-  color: #FF6854;
+  color: #5067EF;
   font-weight: 500;
 }
 .work___process .icons-1 {
@@ -4745,8 +4745,8 @@ z-index: -1;
   right: 274px;
 }
 .history__section .icons-3 {
-  width: 62px;
-  height: 60px;
+  width: 75px;
+  height: 75px;
   top: 95px;
   left: 115px;
 }
@@ -4758,7 +4758,7 @@ z-index: -1;
   padding-bottom: 10px;
 }
 .all___histroy .swiper-wrapper>*:nth-child(1n+1) .history___one .history__img{
-  background: #FF6854;
+  background: #5067EF;
 }
 .all___histroy .swiper-wrapper>*:nth-child(2n+2) .history___one .history__img{
   background: #343E61;
@@ -4884,7 +4884,7 @@ z-index: -1;
 }
 .accordion__box__right__colom .imag__text h5 span {
   font-weight: 500;
-  color: #FF6854;
+  color: #5067EF;
   font-size: 18px;
 }
 .accordion__box__right__colom .imag__text .icon {
@@ -4954,7 +4954,7 @@ z-index: -1;
   align-items: center;
 }
 .accordion-box .block.active-block .acc-btn h5 i {
-  background: #FF6854;
+  background: #5067EF;
 }
 .accordion-box .block .acc-btn h5 i {
   font-size: 18px;
@@ -5019,7 +5019,7 @@ z-index: -1;
 }
 .markiting-block-one .author_____text p {
   font-size: 16px;
-  color: #FF6854;
+  color: #5067EF;
 }
 .markiting_slider .owl-nav{
   display: none;
@@ -5069,7 +5069,7 @@ z-index: -1;
 
 .ready-data {
   padding: 91px 0px 0px;
-  background: #FF6854;
+  background: #5067EF;
   border-radius: 30px 30px 0px 0px;
   text-align: center;
   margin-bottom: -165px;
@@ -5354,7 +5354,7 @@ header.main-header.header__style__three .header-lower {
   content: "";
   display: inline-block;
   position: absolute;
-  background: #FF6854;
+  background: #5067EF;
   border-radius: 266px 266px 0px 0px;
   width: 532px;
   height: 555px;
@@ -5545,7 +5545,7 @@ header.main-header.header__style__three .header-lower {
   opacity: .20;
 }
 .brand__top__text p span {
-  color: #FF6854;
+  color: #5067EF;
   font-weight: 600;
 }
 .brand__section.two .icon-1 {
@@ -5579,7 +5579,7 @@ header.main-header.header__style__three .header-lower {
   align-items: center;
 }
 .superiority_icon_one.one {
-  background: #FF6854;
+  background: #5067EF;
 }
 .superiority_icon_one.two {
   background: #343E61;
@@ -5626,7 +5626,7 @@ header.main-header.header__style__three .header-lower {
   color: #fff;
 }
 .superiority_block:hover .superiority_icon_two {
-  background: #FF6854;
+  background: #5067EF;
 }
 .superiority_icon_two {
   background: #F2F2F2;
@@ -5827,7 +5827,7 @@ header.main-header.header__style__three .header-lower {
   color: #fff;
 }
 .number__c.two{
-  background: #FF6854;
+  background: #5067EF;
 }
 .number__c{
   width: 100px;
@@ -5899,7 +5899,7 @@ header.main-header.header__style__three .header-lower {
   padding: 30px 0px 13px;
 }
 .right___section .author___info h4 span {
-  color: #FF6854;
+  color: #5067EF;
 }
 .right___section .author___info h4 {
   font-weight: 700;
@@ -5931,7 +5931,7 @@ header.main-header.header__style__three .header-lower {
   color: #fff;
 }
 .owl-nav button:hover {
-  background: #FF6854;
+  background: #5067EF;
   box-shadow: 0px 8px 20px rgb(72 72 72 / 10%);
   transition: all 500ms ease;
 }
@@ -5975,7 +5975,7 @@ header.main-header.header__style__three .header-lower {
   margin-bottom: 30px;
 }
 .team__section .team-block-one .lower-content .designation {
-  color: #FF6854;
+  color: #5067EF;
 }
 .team__section .team-block-one .lower-content {
   background: #FFFFFF;
@@ -6003,7 +6003,7 @@ header.main-header.header__style__three .header-lower {
   transition: all 500ms ease;
 }
 .team__section .social-links {
-  background: #FF6854;
+  background: #5067EF;
   border-radius: 0px 0px 30px 30px;
   padding: 15px;
   width: 60px;
@@ -6122,7 +6122,7 @@ header.main-header.header__style__three .header-lower {
   content: '';
   width: 100%;
   height: 100%;
-  background: #FF6854;
+  background: #5067EF;
   box-shadow: 4px 5px 20px rgb(131 129 129 / 10%);
   border-radius: 20px;
   left: 0px;
@@ -6182,7 +6182,7 @@ header.main-header.header__style__three .header-lower {
 } 
 .client__section__two .by__more {
   padding: 43px 28px;
-  background: #FF6854;
+  background: #5067EF;
   border-radius: 20px;
   display: flex;
   width: 253px;
@@ -6433,7 +6433,7 @@ section.team__section.page .icons-2 {
 
 .mask .fill {
   clip: rect(0px, 80px, 190px, 0px);
-  background-color: #FF6854;
+  background-color: #5067EF;
 }
 .mask .fill.two{
   clip: rect(0px, 80px, 190px, 0px);
@@ -6469,7 +6469,7 @@ section.price__section__two.page .price___content .pricing-table.two {
 }
 .team__member__name span {
   font-size: 20px;
-  color: #FF6854;
+  color: #5067EF;
 }
 .award__skill .award__img {
   width: 100px;
@@ -6481,7 +6481,7 @@ section.price__section__two.page .price___content .pricing-table.two {
   border-radius: 50%;
 }
 .award__skill .award__img.two{
-  background: #FF6854;
+  background: #5067EF;
 }
 .award__text {
   width: 83%;
@@ -6906,7 +6906,7 @@ section.price__section__two.page .price___content .pricing-table.two {
   justify-content: space-between;
   align-items: center;
   background: #F7F6F7;
-  box-shadow: 0px -8px 0px #ff6854;
+  box-shadow: 0px -8px 0px #5067EF;
   border-radius: 30px;
   padding: 45px 60px;
   margin-top: 100px;
@@ -6960,7 +6960,7 @@ table.cart-table {
 }
 
 .shop-details .product-discription .tab-btn-box .tab-btns li:hover{
-  color: #FF6854;
+  color: #5067EF;
 }
 
 
@@ -7045,7 +7045,7 @@ table.cart-table {
   width: 10px;
   height: 5px;
   clip-path: polygon(50% 98%, 100% 0, 0 0);
-  background: #FF6854;
+  background: #5067EF;
   transition: all 500ms ease;
 }
 .bootstrap-touchspin .glyphicon-chevron-down:after {
@@ -7054,7 +7054,7 @@ table.cart-table {
   width: 10px;
   height: 5px;
   clip-path: polygon(0 100%, 100% 100%, 50% 0);
-  background: #FF6854;
+  background: #5067EF;
   transition: all 500ms ease;
 }
 
@@ -7386,7 +7386,7 @@ table.cart-table {
   margin-bottom: 23px;
 }
 .total___cart__bos .total {
-  border-bottom: 1px solid #FF6854;
+  border-bottom: 1px solid #5067EF;
   display: block;
   padding: 0px 0px 20px;
   color: #343E61;
@@ -7421,7 +7421,7 @@ table.cart-table {
 
 .cart-section .cart-total .total-cart-box .list li:last-child span{
   font-weight: 400;
-  color: #FF6854;
+  color: #5067EF;
 }
 
 .cart-section .cart-total .total-cart-box a:hover{
@@ -7570,7 +7570,7 @@ table.cart-table {
 }
 
 .checkout-section .order-info .order-list li span.light {
-  color: #FF6854;
+  color: #5067EF;
 }
 .order-product .order-list .product h6 {
   font-family: 'Merriweather';
@@ -7585,7 +7585,7 @@ table.cart-table {
   padding: 30px;
 }
 .checkout-section .order-info .order-list li:last-child span {
-  color: #FF6854;
+  color: #5067EF;
 }
 .order-product .order-list .product span {
   font-family: 'Poppins';
@@ -7871,7 +7871,7 @@ table.cart-table {
   width: 32px;
 }
  .pagination li a:after{
-  background: #FF6854;
+  background: #5067EF;
   position: absolute;
   height: 1px;
   width: 0px;
@@ -7889,7 +7889,7 @@ table.cart-table {
 }
 .question__section {
   background: #FAFAFA;
-  box-shadow: -7px 0px 0px #ff6854;
+  box-shadow: -7px 0px 0px #5067EF;
   border-radius: 30px;
   padding: 65px 50px 65px 130px;
   margin: 70px 0px 40px;
@@ -8038,7 +8038,7 @@ table.cart-table {
   border-radius: 10px;
 }
 .blog-sidebar  .authore__info {
-  background: #FF6854;
+  background: #5067EF;
   border-radius: 20px;
   padding: 60px 10px;
   text-align: center;
@@ -8141,7 +8141,7 @@ table.cart-table {
   content: "";
   width: 100%;
   height: 1px;
-  background: #FF6854;
+  background: #5067EF;
   top: 56px;
 }
 .blog-sidebar .category-widget{
@@ -8557,7 +8557,7 @@ table.cart-table {
   width: 18px;
   height: 18px;
   border-radius: 50%;
-  background: #FF6854;
+  background: #5067EF;
   position: absolute;
   bottom: -44px;
   left: 50%;
@@ -8609,7 +8609,7 @@ table.cart-table {
   padding-bottom: 66px;
 }
 .right__site__info.one a {
-  color: #FF6854;
+  color: #5067EF;
 }
 .right__site__info.two a {
   color: #3AC4E5;
@@ -8630,7 +8630,7 @@ table.cart-table {
   line-height: 40px;
 }
 .contact__info__block:nth-child(1) a {
-  color: #FF6854;
+  color: #5067EF;
 }
 .contact__icon span{
   font-size: 54px;
@@ -8770,7 +8770,7 @@ section.map-section {
 }
 .service__details__1__cat li.active a span,
 .service__details__1__cat li a:hover span{
-  background: #FF6854;
+  background: #5067EF;
   color: #fff;
 }
 .service__news__letter {
@@ -8798,7 +8798,7 @@ section.map-section {
 }
 .news__letter__content .btn__one {
   width: 100%;
-  background: #FF6854;
+  background: #5067EF;
   padding: 15px 0px;
   color: #FFFFFF;
 }
